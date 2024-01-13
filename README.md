@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanMule&layout=compact&card_width=320&theme=dracula" height="150" alt="Top Languages" />
 </div>
 <br>
-<img align="right" height="150" src="https://i.imgur.com/0xSQPuW.png"  />
+<img align="right" height="150" src="https://i.imgur.com/1WAeqm1.png"  />
 <br>
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack</h3>
