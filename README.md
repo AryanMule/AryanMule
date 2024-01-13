@@ -105,13 +105,13 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prem-Mule&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanMule&theme=dracula" alt="GitHub Trophies" />
 </div>
 <br>
 <!-- GitHub Streak Stats -->
 <h3 align="left">GitHub Streak Stats ⚡</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Mule&theme=dracula" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanMule&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 
 <br>
