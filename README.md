@@ -8,7 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanMule&layout=compact&card_width=320&theme=dracula" height="150" alt="Top Languages" />
 </div>
 <br>
-<img align="right" height="150" src="https://imgur.com/a/kAtcGue"  />
+<!-- <img align="right" height="150" src="https://imgur.com/a/kAtcGue"  />
+ -->
+ <blockquote class="imgur-embed-pub" lang="en" data-id="VrG2PET"><a href="https://imgur.com/VrG2PET">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br>
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack</h3>
